@@ -1,0 +1,14 @@
+numpy
+pandas
+uuid
+pydantic
+langchain
+langgraph
+openinference-instrumentation-langchain
+phoenix
+grandalf
+dotenv
+langchain_community
+langchain-core
+yandexcloud
+requests
